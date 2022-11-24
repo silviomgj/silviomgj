@@ -1,6 +1,6 @@
 - 👋 Hi, my name is  Silvio Junior
 - 👀 I’m interested in  NodeJS
-- 🌱 I’m currently learning  JavaScript e NodeJS
+- 🌱 I’m currently learning  JavaScript and NodeJS
 
 <div align="center">
   <a href="https://github.com/silviomgj">
