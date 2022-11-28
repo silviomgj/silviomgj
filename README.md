@@ -2,7 +2,7 @@
 - 👀 I’m interested in  NodeJS
 - 🌱 I’m currently learning  JavaScript and NodeJS
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/silviomgj">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=silviomgj&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
