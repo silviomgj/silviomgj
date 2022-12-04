@@ -1,6 +1,6 @@
 - 👋 Hi, my name is  Silvio Junior
 - 👀 I’m interested in  NodeJS
-- 🌱 I’m currently learning  JavaScript and NodeJS and Clean Architeture
+- 🌱 I’m currently learning  NodeJs, Typescript, TDD, Clean Architecture e SOLID
 
 <div align="center">
   <a href="https://github.com/silviomgj">
